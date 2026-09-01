@@ -157,8 +157,6 @@ Only if the core is solid — do not block submission on these:
 1. Complete the core scope and `SUBMISSION.md` (see template below).  
 2. Share your solution as instructed by your recruiter (zip, private repo, or branch).  
 
-Please do **not** publish a public solution that spoils the exercise for others.
-
 ---
 
 ### `SUBMISSION.md` template
